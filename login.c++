@@ -2,7 +2,7 @@
 
 int main (){
 
-    std::cout << "hello git3git" << std::endl;
+    std::cout << "login " << std::endl;
 
 
     return 0 ;
